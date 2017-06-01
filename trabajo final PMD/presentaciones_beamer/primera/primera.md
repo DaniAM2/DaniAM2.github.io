@@ -6,7 +6,7 @@ date:
 author:
 - Daniel Álvarez Martínez
 theme: Madrid
-colortheme: albatross
+colortheme: orchid
 font: structurebold
 section-titles: true
 beamerarticle: true

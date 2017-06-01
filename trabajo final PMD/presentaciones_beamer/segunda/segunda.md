@@ -6,7 +6,7 @@ date:
 author:
 - Daniel Álvarez Martínez
 theme: Madrid
-colortheme: albatross
+colortheme: seahorse
 font: structurebold
 section-titles: true
 beamerarticle: true
@@ -45,7 +45,7 @@ sie/Sie        sind           ellos/as - usted/ustedes
 
 # Los verbos regulares (I): el verbo kommen
 
-## ble
+## Los verbos regulares (I): el verbo kommen
 
 **Persona**      **Forma**     **Traducción**
 ---------      -----------    -------------
@@ -65,7 +65,7 @@ sie/Sie        komm**en**        ellos/as vienen
 
 # Los verbos regulares(II): el verbo wohnen
 
-## ble
+## Los verbos regulares(II): el verbo wohnen
 
 **Persona**      **Forma**        **Traducción**
 ---------      -----------    -------------
@@ -94,7 +94,7 @@ sie/Sie        essen           ellos/as viven
 
 # Los artículos indeterminados
 
-## ble
+## Los artículos indeterminados
 
 Ahora que ya hemos visto los determinados (*der, die, das*), pasemos a los artículos indeterminados. En este caso coinciden las formas para masculino y neutro (**ein**). La forma para femenino (**eine**) en este caso no se confunde con el plural puesto que éste, al igual que en español, no tiene indeterminado. Aquí tienes algunos ejemplos, y de paso, aprendes nuevas palabras.
 
