@@ -128,7 +128,7 @@ En alemán existen 3 géneros distintos para los sustantivos:
 ## Para ilustrar...
 ![cerveza](./imagenes/cerveza.jpg)
 
- [Haz clic aquí](http://www.guiadealemania.com/cerveza-en-alemania/) si quieres descubrir la magia de la cerveza alemana.
+[Haz clic aquí](http://www.guiadealemania.com/cerveza-en-alemania/) si quieres descubrir la magia de la cerveza alemana.
 
 ## Ten en cuenta...
 
